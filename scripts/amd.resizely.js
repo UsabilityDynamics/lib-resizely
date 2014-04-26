@@ -1,0 +1,1 @@
+define("resizely",["jquery.resizely"],function(){console.debug("Resizely","loaded"),document.addEventListener("DOMContentLoaded",function(){})});
