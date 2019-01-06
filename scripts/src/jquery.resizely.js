@@ -3,7 +3,7 @@
  * jQuery plugin that makes your images Retina and responsive when coupled
  * with the dynamic image delivery service Resize.ly
  * @copyright 2013 Resize.ly
- * @link https://github.com/UsabilityDynamics/resizely-jquery
+ * @link https://github.com/udx/resizely-jquery
  * @includes imagesLoaded v3.0.4
  *
  * Permission is hereby granted, free of charge, to any person obtaining
