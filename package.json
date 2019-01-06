@@ -1,11 +1,11 @@
 {
   "name": "lib-resizely",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "Require Library.",
   "private": true,
   "repository": {
     "type": "git",
-    "url": "https://github.com/UsabilityDynamics/lib-resizely"
+    "url": "https://github.com/udx/lib-resizely"
   },
   "main": "lib/lib-resizely",
   "engines": {
